@@ -1,0 +1,9 @@
+.env
+.env.*
+node_modules/
+.vercel/
+tmp/
+archive/
+CLAUDE.md
+CLAUDE.local.md
+ROADMAP.md
